@@ -1,0 +1,25 @@
+Scenario,Zone,Warehouse,Weekly orders,Variable INR per order,Modeled delivery days
+Current network,North,Delhi NCR,6200,30,1
+Current network,West,Mumbai,4700,31,1
+Current network,South,Bengaluru,5900,28,1
+Current network,East,Delhi NCR,3300,71,3
+Current network,Central,Mumbai,3200,39,2
+Current network,Northeast,Bengaluru,1250,104,6
+90% SLA,North,Delhi NCR,6200,30,1
+90% SLA,West,Delhi NCR,4700,52,2
+90% SLA,South,Bengaluru,5900,28,1
+90% SLA,East,Kolkata,3300,29,1
+90% SLA,Central,Kolkata,3200,44,2
+90% SLA,Northeast,Bengaluru,1250,104,6
+Base,North,Delhi NCR,6200,30,1
+Base,West,Delhi NCR,4700,52,2
+Base,South,Bengaluru,5900,28,1
+Base,East,Kolkata,3300,29,1
+Base,Central,Bengaluru,3200,55,3
+Base,Northeast,Kolkata,1250,54,2
+Peak +15%,North,Delhi NCR,7130,30,1
+Peak +15%,West,Mumbai,5405,31,1
+Peak +15%,South,Bengaluru,6785,28,1
+Peak +15%,East,Kolkata,3795,29,1
+Peak +15%,Central,Mumbai,3680,39,2
+Peak +15%,Northeast,Kolkata,1438,54,2
